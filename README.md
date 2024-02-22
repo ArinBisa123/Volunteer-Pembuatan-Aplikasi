@@ -8,4 +8,3 @@ Silakan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
 Berikut adalah daftar Volunter yang diterima:
-- Rifky Galuh, (Github : rfqgal) (https://github.com/rfqgal)
